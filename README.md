@@ -7,3 +7,6 @@ This project is based on the Chinese Zodiac capstone project found in *PHP Progr
 > Some project items were skipped but all fundamental features are implemented
 
 ![Home Page](https://github.com/brianb12321/ChineseZodiac/raw/master/Images/HomePage.PNG)
+
+# Documentation
+Documentation and setup guides can be found [here](https://brianb12321.github.io/ChineseZodiac/)
