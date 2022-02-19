@@ -1,0 +1,1 @@
+<img id="bannerImage" src="Images/ChineseZodiacBanner.png" alt="Chinese Zodiac banner displaying all the Chinese Zodiac creatures." />

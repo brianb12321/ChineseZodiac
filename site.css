@@ -1,0 +1,99 @@
+* {
+    font-size: 20pt;
+}
+
+#bannerImage {
+    width: 100%;
+}
+body {
+    background-image: url("Images/ChineseSymbolsPattern.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: #ab570e;
+    font-size: 24pt;
+}
+h2 {
+    color: darkorange;
+    font-size: 22pt;
+}
+input[type="text"], input[type="number"] {
+    background-color: #ffd70038;
+    border-radius: 4px;
+}
+a {
+    color: #c3b255
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+#dynamicContentSection {
+    width: 100%;    
+}
+footer p {
+    font-size: 15pt;
+}
+
+/* Button styles */
+#ButtonNav {
+    display: flex;
+    flex-direction: column;
+    margin-right: 160px;
+}
+#ButtonNav img {
+    width: 200%;
+}
+
+button {
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 14pt;
+    border: gold 1px solid;
+}
+button:hover {
+    background-color: grey;
+}
+.link-nav a {
+    padding-right: 20px;
+}
+
+form {
+    width: 50%;
+}
+.form-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.form-section input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    height: 300px;
+    resize: none;
+}
+
+@media screen and (max-width: 1022px) {
+    main {
+        flex-direction: column;
+    }
+    /* Center the buttons */
+    #ButtonNav {
+        display: block;
+        margin: auto;
+    }
+    #ButtonNav img {
+        width: 100%;
+    }
+}
