@@ -6,3 +6,4 @@
 This project is based on the Chinese Zodiac capstone project found in *PHP Programming with MySQL (2nd Edition)*
 > Some project items were skipped but all fundamental features are implemented
 
+![Home Page](https://github.com/brianb12321/ChineseZodiac/raw/master/Images/HomePage.PNG)
